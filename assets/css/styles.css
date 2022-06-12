@@ -1,0 +1,101 @@
+body {
+  background-color: black;
+  color: #fff;
+  margin: 0px;
+  padding: 0px;
+}
+.encabezado {
+  top: 0px;
+  left: 0px;
+  width: 1280px;
+  height: 73px;
+  background: #000000 0% 0% no-repeat padding-box;
+  opacity: 1;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 25px;
+}
+.imagenytexto {
+  display: flow-root;
+  margin-left: 110px;
+  margin-right: 110px;
+  margin-top: 76px;
+  margin-bottom: 75px;
+}
+.primeraseccion {
+  float: left;
+  width: 40%;
+  padding: 3em;
+}
+.primeraseccion p {
+  top: 876px;
+  left: 150px;
+  width: 475px;
+  height: 197px;
+  font-family: "Raleway", sans-serif;
+  text-align: left;
+  font-size: 16px;
+  float: left;
+  margin-right: 3em;
+}
+.primeraseccion img {
+  width: 399px;
+  height: 237px;
+  margin-left: 1em;
+  float: right;
+}
+
+.caracteristicas {
+  text-align: center;
+  margin: 4em 0;
+  padding: 1em;
+  font-family: "Raleway", sans-serif;
+  background-color: #1e1a13;
+
+  padding: 1em;
+  display: flow-root;
+}
+.feature {
+  width: 30%;
+  padding: 1%;
+  display: inline-block;
+}
+.feature h2 {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  font-size: 6em;
+}
+.feature i {
+  display: block;
+  padding: 0.5em;
+}
+.feature p {
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  margin: 0px;
+}
+.galeria {
+  padding: 50px 100px;
+}
+.fotos {
+  display: inline-block;
+  width: 30%;
+  margin: 0.75%;
+  padding: 0.75%;
+}
+.fotos img {
+  width: 316px;
+  height: 202px;
+}
+.footer {
+  top: 1835px;
+  left: 0px;
+  width: 1280px;
+  height: 102px;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  line-height: 5em;
+  background-color: #1e1a13;
+}
